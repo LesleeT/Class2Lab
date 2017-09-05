@@ -13,26 +13,26 @@
     </head>
     <body>
         <h1>Title</h1>
-        <TABLE  BORDER="5">
-   <TR>
-      <TH COLSPAN="2">
-         <H3><BR>TABLE TITLE</H3>
-      </TH>
-   </TR>
-      <TH>Column A</TH>
-      <TH>Column B</TH>
-   <TR>
-      <TD>Data 1</TD>
-      <TD>Data 2</TD>
-   </TR>
-   <TR>
-      <TD>Data 3</TD>
-      <TD>Data 4</TD>
-   </TR>
-   <TR>
-      <TD>Data 5</TD>
-      <TD>Data 6</TD>
-   </TR>
-</TABLE>
+        <table  BORDER="5">
+            <tr>
+               <th COLSPAN="2">
+                  <H3><BR>TABLE TITLE</H3>
+               </th>
+            </tr>
+               <th>Column A</th>
+               <th>Column B</th>
+            <TR>
+               <TD>Data 115</TD>
+               <TD>Data 215</TD>
+            </TR>
+            <TR>
+               <TD>Data 315</TD>
+               <TD>Data 415</TD>
+            </TR>
+            <TR>
+               <TD>Data 515</TD>
+               <TD>Data 615</TD>
+            </TR>
+        </table>
     </body>
 </html>
