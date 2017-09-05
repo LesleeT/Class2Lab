@@ -14,25 +14,20 @@
     <body>
         <h1>Title</h1>
         <table  BORDER="5">
-            <tr>
-               <th COLSPAN="2">
-                  <H3><BR>TABLE TITLE</H3>
-               </th>
-            </tr>
-               <th>Column A</th>
-               <th>Column B</th>
-            <TR>
-               <TD>Data 115</TD>
-               <TD>Data 215</TD>
-            </TR>
-            <TR>
-               <TD>Data 315</TD>
-               <TD>Data 415</TD>
-            </TR>
-            <TR>
-               <TD>Data 515</TD>
-               <TD>Data 615</TD>
-            </TR>
+                     <%
+                for(int row = 0; row <3; row++){
+                    %>
+                    <tr>
+                        <%
+                            for(int col = 0; col < 3; col++){
+                                %>
+                                <td>
+                                    data
+                                </td>
+                            <%}%>
+                    </tr>
+                <% }
+                %>       
         </table>
     </body>
 </html>
