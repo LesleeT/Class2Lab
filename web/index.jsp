@@ -13,7 +13,8 @@
     </head>
     <body>
         <h1>Title</h1>
-
+        <h2>Welcome</h2>
+        <p><a href="welcome.html">Click for result</a></p>
     </body>
 </html>
 

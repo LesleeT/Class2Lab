@@ -14,7 +14,7 @@
     <body>
         <h1>Title</h1>
         <table  BORDER="5">
-                     <%
+            <%
                 for(int row = 0; row <3; row++){
                     %>
                     <tr>
